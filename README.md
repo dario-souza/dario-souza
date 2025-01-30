@@ -1,5 +1,7 @@
 # 👋 Dário Souza  
 
+PS: Github Novo, perdi meu github antigo
+
 - 👀 Meu foco é front-end, mas tenho conhecimentos em back-end também.  
 - 🌱 Atualmente estou aprendendo mais sobre Node.js e o universo back-end, sempre procurando me manter atualizado
 - 📫 Como me encontrar:  
