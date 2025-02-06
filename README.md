@@ -8,7 +8,7 @@ PS: Github Novo, perdi meu github antigo
   - Email: [dariosouzaletras@hotmail.com](mailto:dariosouzaletras@hotmail.com)  
   - LinkedIn: [linkedin.com/in/dario-souza](https://linkedin.com/in/dario-souza)
   - Curriculo [curriculo](https://1drv.ms/w/c/7cd02d6aa40467a0/EaBnBKRqLdAggHxJBwAAAAABwlhkp_9ga-9TYInGKmuipg?e=3aYzjA)
-- ⚡ Curiosidade: Meu primeiro contato com tecnologia foi salvando arquivos no Paint usando o Windows 98. Também sou fã de rock 'n roll, animes e jogos retrô!  
+- ⚡ Curiosidade: Meu primeiro contato com tecnologia foi salvando arquivos no Paint usando o Windows 98.
 
 ## 💻 Tecnologias e Ferramentas  
 
